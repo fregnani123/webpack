@@ -18,5 +18,5 @@ for(let i = 0; i < nomes.length; i++){
 }
 
 for(pessoas of nomes){
-    console.log(pessoas)
+    console.log(pessoas) 
 }
